@@ -13,10 +13,8 @@ function save() {
             }
     }else if(value !== "Hassan"){
         document.getElementById("sample2").innerText = "Wrong answer"
-        alert("You've Enter a wrong word")
     }else{
-        document.getElementById("sample2").innerText = ""
-        
+        document.getElementById("sample2").innerText = ""    
     }
    
 }
