@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.nav{
+    border: 1px solid red;
+    /* height: 10vh; */
+}
+.nav img{
+    width: 350px;
+    height: 250px;
+}
+.sample{
+    border: 1px solid red;
+    height: 50px;
+    width: 200px;
+}
