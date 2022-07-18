@@ -1,0 +1,10 @@
+create a dictionary of the array, which stores the English words
+create a box using 8 left to right 8 top to bottom(row, column)
+Every box is clickable, these are displaying Random Letters
+user can select the box to identify the word, 
+selected Latter display in div / input for user satisfaction
+if the word is completed and found from the dictionary array, got 1 point.
+create a timer which is displaying and counts seconds
+user has 1 minute to find a word from the random words
+if the time is 00:00 game over
+if find or match time will start from the beginning
