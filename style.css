@@ -1,0 +1,24 @@
+body {
+     margin:0px;
+     padding:0px;
+
+     background-repeat: no-repeat;
+     background-image: url(https://wallpaperaccess.com/full/145936.jpg);
+     background-size: cover;
+    
+}
+
+#button{
+    margin-top:380px;
+    margin-left: 500px;
+    width: 40%;
+    /* background: re; */
+    height:100px;
+    border-radius: 10px;
+    background: grey;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+}
