@@ -1,24 +1,45 @@
 body {
      margin:0px;
      padding:0px;
-
+     background-color:rgb(184, 73, 73);
+     color:whitesmoke;
+     transition: all 1s ease;
+/* 
      background-repeat: no-repeat;
      background-image: url(https://wallpaperaccess.com/full/145936.jpg);
      background-size: cover;
+     background-position: top; */
     
 }
-
-#button{
-    margin-top:380px;
-    margin-left: 500px;
+.main{
+    transition: all 1s ease;
+    margin: 40px auto;
+    /* border: 1px solid red; */
     width: 40%;
-    /* background: re; */
-    height:100px;
-    border-radius: 10px;
-    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 700px;
+    border-radius: 20px;
+    /* background-color: rgba(0, 0, 0, 0.9); */
+
 }
-a{
-    color: white;
-    text-decoration: none;
-    font-size: 60px;
+img{
+    border-top-left-radius:400px;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 400px;
+    border-bottom-right-radius: 400px ;
+    /* border-radius: 20px; */
+}
+.time{
+    margin:20px auto;
+    border-bottom:1px solid white;
+    width:30%;
+    font-size:30px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    justify-content: space-between;
+
 }
